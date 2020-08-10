@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML: Images</title>
+    </head>
+    <body>
+
+    <h1>Pictures</h1>
+    
+    <h3>This is a car</h3>
+    
+    <img src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d35eacaf1176b0008974b54%2F0x0.jpg%3FcropX1%3D790%26cropX2%3D5350%26cropY1%3D784%26cropY2%3D3349> 
+    
+    <h3>This is a bird</h3>
+    
+    <img src="https://i.guim.co.uk/img/media/43d137ea70cc05d51bccea2adbc35f3468148162/0_58_3500_2101/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=f1781226612b87f4835e2a5cd1d85b1f>
+    
+    <h3>And this is a plate</h3>
+    
+    <img src="https://www.ikea.com/au/en/images/products/ikea-365--plate-white__0712377_PE728796_S5.JPG>
+    
+    </body>
+</html> 
